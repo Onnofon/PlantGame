@@ -1,0 +1,4 @@
+repository "PlantGame-INFOMSEGA@Onnofon@cloud"
+  path "/"
+    br "/main"
+    co "/main"
